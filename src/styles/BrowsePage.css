@@ -1,0 +1,15 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container2 {
+    display: flex;
+  }
+  
+  .line {
+    border-left: 2px solid black;
+    height: 100%;
+  }

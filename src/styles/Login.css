@@ -1,0 +1,21 @@
+
+/* div{
+    margin-top:80px;
+} */
+#greeting h1, #greeting p{
+    margin-left:25%;
+}
+
+#loginreturn h1, #loginreturn p{
+    margin-left:25%;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+button{
+    margin-bottom:20px;
+}

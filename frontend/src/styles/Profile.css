@@ -1,0 +1,26 @@
+.image{
+    text-align:center;
+}
+
+.content{
+    text-align:center;
+}
+
+.deletebutton{
+    margin-top:20px;
+    margin-bottom:20px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    color:red;
+    background: none;
+    width: 80px;
+    border: 0.5px solid lighten(gray, 24%) ;
+    padding: 15px;
+    /* height: px; */
+    border-radius: 10px;
+}
+
+.deletebutton:hover{
+    color:white;
+}
